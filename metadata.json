@@ -1,0 +1,6 @@
+{
+  "name": "OPRALD EDUTECH CONSULT",
+  "description": "Student attendance, sign-in/out portal, absence excuses, and administration dashboard for OPRALD EDUTECH CONSULT.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
